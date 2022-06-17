@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp - Zakaria Khalaf - 162199/CourseApp/app/src/main/res/layout/cardview_courses_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/drawable/ic_baseline_accessibility_new_24.xml" value="0.1" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/cardview_courses_layout.xml" value="0.1" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/courses_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/delete_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/dialog_layout.xml" value="0.25" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/fragmentRegisteredStudents_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/fragment_courses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/fragment_courses_layout.xml" value="0.18181818181818182" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/fragment_registered_students.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/fragmentregisteredrtudents_layout.xml" value="0.1" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/my_cours.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/my_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/registered_courses.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/registered_students.xml" value="0.1" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/layout/regs.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/menu/bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Desktop/sem7/Android/Android Final/CourseApp/CourseApp/app/src/main/res/menu/bottommenu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/zakar/Downloads/MyApplication/CourseApp/app/src/main/res/layout/courses_layout.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:layout_marginHorizontal="5dp"
+    android:layout_marginVertical="5dp"
+    app:cardBackgroundColor="#9EFFFFFF"
+    app:cardCornerRadius="10dp"
+    app:contentPadding="2dp">
+
+    <RelativeLayout
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:layout_margin="2dp"
+        android:background="#FFFFFF"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Course Name"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+             />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView"
+            android:text="Target Number"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+             />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView2"
+            android:text="Remaining Chairs"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+             />
+
+        <TextView
+            android:id="@+id/course_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="80dp"
+            android:layout_toEndOf="@+id/textView"
+            android:layout_toRightOf="@+id/textView"
+            android:text="Line 4"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+             />
+
+        <TextView
+            android:id="@+id/target_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/course_name"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="80dp"
+            android:layout_toEndOf="@+id/textView"
+            android:layout_toRightOf="@+id/textView"
+            android:text="Line 5"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+             />
+
+        <TextView
+            android:id="@+id/remaining_chairs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/target_number"
+            android:layout_marginStart="80dp"
+            android:layout_marginLeft="80dp"
+            android:layout_toEndOf="@+id/textView"
+            android:layout_toRightOf="@+id/textView"
+            android:text="Line 6"
+            android:textColor="@android:color/black"
+            android:textSize="20sp"
+             />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
+
+
+
+
